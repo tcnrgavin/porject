@@ -20,4 +20,8 @@ div {
 
 li {
   list-style-type: none;
+}
+
+div h1 {
+  color: yellow;
 }/*# sourceMappingURL=style.css.map */
