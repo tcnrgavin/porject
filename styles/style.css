@@ -10,4 +10,10 @@ h1 {
 
 p {
   color: blue;
+}
+
+div {
+  padding: 20px;
+  margin: 10px auto;
+  width: 50%;
 }/*# sourceMappingURL=style.css.map */
